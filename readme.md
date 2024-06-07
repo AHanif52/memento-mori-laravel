@@ -1,7 +1,7 @@
 # Membuat REST API data desa di Indonesia
 
-Menggunakan Framework CodeIgniter 3
-dengan menggunakan library dari https://github.com/ardisaurus/ci-restserver
+Menggunakan Framework Laravel
+
 REST API Documentation
 
 ## Base URL
